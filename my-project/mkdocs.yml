@@ -1,0 +1,17 @@
+site_name: YUI'WORLD
+site_url: https://fi-0x.github.io/
+theme:
+  name: material
+
+nav:
+  - 致来者的信: index.md
+  - YUI の weekplan: weekplan.md
+  - YUI の 读书会:
+    - ali: ali.md
+    - study less,learn more: sllm.md
+  - YUI の 随想maybe牢骚:
+    - Jan.08: 1.08.md
+    - Jan.22: 1.22.md
+    - Feb.14: 2.14.md
+    - Feb.16: 2.16.md
+    - Feb.26: 2.26.md
