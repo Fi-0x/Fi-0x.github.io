@@ -18,8 +18,7 @@
 - 关于工作：什么是你喜欢的，什么是你不喜欢的
 - 关于生活：什么是你喜欢的，什么是你不喜欢的（关于健康和人际关系）
 - 生命之轮：
-![image](ipfs://QmPtZv4y7B9yfnCw6FFFEXXMWNiFuYrYr1GkjCvJ1AXedd)
-
+![alt text](9B877263B464C8D1500B46B1D3FE9F82.png)
 对此进行评分：以此作为思考的途径，以此做出行动规划。
 记得循序渐进，一步一步来。
 不是追求幸福，而是在追求过程中感受幸福。
@@ -33,7 +32,7 @@
 我会....我会....这样去了解自己，不去追求世俗意义上的成功。
 成功就是向着你认为有意义的事情上努力，然后享受旅途。
 #### 十年之梦
-![image](ipfs://QmdZnagH8vLUsU4rYdS5QZcARZB5DqeZGWNF6uQHs3LH7c)
+![alt text](image-1.png)
 
 - 越多越好
 - 避免完美主义
@@ -52,9 +51,7 @@
 - Prompts: Health, Relationship, Work.
 - Focus on 3-5 goals.
 - Further Prompts:
-
-![image](ipfs://Qmc4QbKY3kVgmew6wEowhYP98zzkxUeDLWJVCHQBQQpo8p)
-
+![alt text](image-2.png)
 #### 日记提示语
 - 如果不用为钱烦恼，你会做什么
   ：如果我有足够的时间和钱，我该怎么利用我的才能为别人服务
