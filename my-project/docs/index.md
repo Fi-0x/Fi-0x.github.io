@@ -1,17 +1,6 @@
-# Welcome to MkDocs
-
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
-
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+# 欢迎来到YUI的世界！
+## 在这里你可以看到：
+- YUI的weekplan
+- YUI的读书会（关于学习、效率等等方面）
+- YUI的随想和牢骚（关于生活的方方面面）
+- index在左侧喵
