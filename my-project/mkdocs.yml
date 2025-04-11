@@ -1,0 +1,43 @@
+site_name: YUI's WORLD
+site_url: https://fi-0x.github.io/
+theme:
+  name: material
+nav:
+  - 致来者的信: index.md
+  - 友链: 友链.md
+  - Weekplan: Objective.md
+  - Thinking:
+    - Self:
+        - 分流烦恼: 1.22.md
+        - 学习节奏: 2.14.md
+        - 生日: 2.26.md
+        - ta: 3.2.md
+        - 美: 3.20.md
+        - 系统周期论: 周期系统论.md
+        - 关于惶恐和追求: 关于惶恐和追求.md
+        - 开放世界: 人生是个巨大的开放世界游戏.md
+        - Schedule: Schedule.md
+    - Relationship:
+        - 本科教育: 1.08.md
+        - 关于见证: 2.16.md
+        - 抽象文化: 3.1抽象.md
+        - 刻奇与情绪: 3.23.md
+        - 关于大学高中化: 关于大学高中化.md
+        - 平行线和相交线: 平行线和相交线谁更可悲.md
+        - 生老病死: 生老病死.md
+        - 坂本龙一: 坂本龙一.md
+
+  - Views:
+    - ali: ali.md
+    - study less,learn more: sllm.md
+  - Learning routes:
+    - Whole: Whole.md
+    - Partial:
+      - Calculus: Calculus.md
+      - Linear Algebra: Linear algebra.md
+      - Electric Circuits: Electic Circuit.md
+      - Fundamental Physics: Fundamental Physics.md 
+
+  - Occupation plan:
+    - 嵌入式方向: 嵌入式方向.md
+    - IC方向: IC方向.md
