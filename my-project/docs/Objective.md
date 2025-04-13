@@ -1,7 +1,7 @@
 Objective
 
 - Exam-oriented
-    - 线性代数网课完结
+    - 线代看书
     - 电路网课跟上进度
     - 大物第五章
     - 高数复习三章
@@ -12,7 +12,7 @@ Objective
 - Artistic
     - 漫画迷宫饭
     - 每天拍出一张自己喜欢的照片
-    - 霍乱时期的爱情5pages per day
+    - 纵横四海播客
 - Physical
     - 有氧
         - 乒乓球2h
