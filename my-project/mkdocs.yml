@@ -5,10 +5,11 @@ theme:
 nav:
   - 致来者的信: index.md
   - 友链: 友链.md
-  - Weekplan: Objective.md
+  -  Weekplan: Objective S2W11.md
   - 周结:
     - S2W8: 周结1.md
     - S2W9: 周结2.md
+    - S2W10: 周结3.md
   - Thinking:
     - Self:
         - 分流烦恼: 1.22.md
@@ -25,6 +26,7 @@ nav:
         - 新时代信息论: 新时代信息论.md
         - 情绪调节: 情绪调节.md
         - 高效休息: 高效休息.md
+        - 星露谷物语: 星露谷物语.md
     - Relationship:
         - 本科教育: 1.08.md
         - 关于见证: 2.16.md
@@ -34,6 +36,7 @@ nav:
         - 平行线和相交线: 平行线和相交线谁更可悲.md
         - 生老病死: 生老病死.md
         - 坂本龙一: 坂本龙一.md
+        - 定制ai: idea之定制ai.md
 
   - Views:
     - ali: ali.md
