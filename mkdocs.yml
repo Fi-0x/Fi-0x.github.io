@@ -70,7 +70,7 @@ repo_name: YUI # 右上角的名字
 nav:
   - 致来者的信: index.md
   - 友链: 友链.md
-  -  Weekplan: Objective S2W15.md
+  -  Weekplan: Objective S2W19.md
   - 周结:
     - S2W8: 周结1.md
     - S2W9: 周结2.md
@@ -80,6 +80,7 @@ nav:
     - S2W13: 周结13.md
     - S2W14: 周结S2W14.md
     - S2W15、16: S2W15、W16周结.md
+    - S2W17、18: S2W17、18周结.md
   - blog:
     - blog/index.md
 
